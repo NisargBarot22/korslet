@@ -1,0 +1,13 @@
+.services{
+    display: block
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.services_header{
+    display: flex;
+    justify-content: center;
+}

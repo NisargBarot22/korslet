@@ -1,0 +1,15 @@
+.about_us{
+    /* z-index: 21; */
+    background-color: lightblue;    
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about_header{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
